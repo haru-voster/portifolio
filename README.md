@@ -7,6 +7,7 @@
   ![Linkedin](https://linkedin.com/in/haroun-voster-3b74b122b/)
 
   <br />
+  <br/>
   <br />
 
   <h2 align="center">Personal Portfolio Website</h2>
