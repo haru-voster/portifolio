@@ -48,7 +48,7 @@ window.addEventListener("scroll", function () {
 });
 
 /**
- * whatsappp
+ * whatsappp no
  * **/
 function sendWhatsAppMessage()
 {
@@ -92,6 +92,5 @@ function eraseRole() {
     }
 }
 
-// Start the typing effect
 typeRole();
 
