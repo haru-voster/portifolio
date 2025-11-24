@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![dashboard snap](https://github.com/haru-voster/portifolio/blob/main/readme-images/homepage.png?raw=true)
+![dashboard snap](https://github.com/haru-voster/portifolio/blob/main/readme-images/homepg.png?raw=true)
 
 ### Prerequisites
 

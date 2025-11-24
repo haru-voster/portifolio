@@ -61,7 +61,7 @@ function sendWhatsAppMessage()
 /**
  *js animation
  */
-const roles = ["Web Developer", "Software Engineer", "Computer Technician"];
+const roles = ["Web Developer", "Software Engineer", "Computer Scientist"];
 let roleIndex = 0; // Track current role
 let charIndex = 0; // Track current character in the role string
 const typingSpeed = 100; // Speed of typing
