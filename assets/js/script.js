@@ -59,7 +59,7 @@ function sendWhatsAppMessage()
 }
 
 /**
- *js animation
+ 
  */
 const roles = ["Web Developer", "Software Engineer", "Computer Scientist"];
 let roleIndex = 0; // Track current role
