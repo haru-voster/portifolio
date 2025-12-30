@@ -4,7 +4,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/haru-voster/portfolio?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/haru-voster/portfolio?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/haru-voster_?style=social)](https://twitter.com/HarounMagio)
-  ![Linkedin](https://linkedin.com/in/haroun-voster-3b74b122b/)
+  ![Linkedin](https://www.linkedin.com/in/haroun-wabwire-9bb7a538b/)
 
   <br />
   <br/>
